@@ -10,7 +10,7 @@ santas_reindeer = [
     "Vixen",
     "Comet",
     "Cupid",
-    "Donder",
+    "Donner",
     "Blitzen"
 ]
 
